@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-eventually",
+  "name": "Eventually sample page",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Eventually by HTML5 UP",
+  "description": "home page sample --HARRY Co.,Ltd.",
   "repository": {
     "type": "git",
     "url": "git+https://bhb-harry.netlify.com"
@@ -36,9 +36,12 @@
     "rimraf": "^2.6.3"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-eventually"
+    "home",
+    "home page",
+    "website",
+    "ウェブサイト",
+    "ホームページ",
+
   ],
   "license": "MIT",
   "bugs": {
