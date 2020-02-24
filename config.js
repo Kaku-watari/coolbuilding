@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'GEventually sample page', // <title>
+  siteTitle: 'Eventually sample page', // <title>
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
