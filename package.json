@@ -1,5 +1,5 @@
 {
-  "name": "Eventually sample page",
+  "name": "eventually_samplepage",
   "version": "0.0.1",
   "description": "home page sample --HARRY Co.,Ltd.",
   "repository": {
@@ -40,7 +40,7 @@
     "home page",
     "website",
     "ウェブサイト",
-    "ホームページ",
+    "ホームページ"
 
   ],
   "license": "MIT",
