@@ -31,7 +31,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:info@bhb-harry.netlify.com',
+      url: 'mailto:info@bhb-harry.co.jp',
     },
   ],
 };
